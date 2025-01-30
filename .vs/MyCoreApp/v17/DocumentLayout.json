@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\DevOps\\MyCoreApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|c:\\devops\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|C:\\DevOps\\MyCoreApp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|c:\\devops\\mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|c:\\devops\\mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|c:\\devops\\mycoreapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|C:\\DevOps\\MyCoreApp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|c:\\devops\\mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|C:\\DevOps\\MyCoreApp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29B700-7D26-45A7-A85C-4C17533C2C1B}|MyCoreApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevOps\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\DevOps\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T20:14:22.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Privacy.cshtml.cs",
               "DocumentMoniker": "C:\\DevOps\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\DevOps\\MyCoreApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -80,12 +97,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-29T23:48:29.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T23:48:29.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\DevOps\\MyCoreApp\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
@@ -93,8 +109,7 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:00:30.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T23:00:30.185Z"
             }
           ]
         }
